@@ -2,7 +2,7 @@
 /*
 Plugin Name: Hidden HTML Widget
 Plugin URI: https://github.com/fooplugins/hidden-widget
-Description: Append a hidden div element onto the end of your body, using a widget
+Description: Append a hidden div element at the end of the body, using a widget
 Version: 1.0.0
 Author: bradvin
 Author URI: http://fooplugins.com
